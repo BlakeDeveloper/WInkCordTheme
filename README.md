@@ -32,8 +32,8 @@ Bugs:
 	--accentcolor: var(--accent);
 	--vaccentcolor-hover: rgb(var(--accent));
 	--vaccentcolor-active: rgb(var(--accent));
-}
-  ```
+	}
+```
   - [ ] Server creation screen.
 
 Note: These bugs will be fixed in the future.
