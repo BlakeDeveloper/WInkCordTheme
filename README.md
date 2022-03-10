@@ -1,5 +1,7 @@
-# WinkCord
+# WinkCord BetterDiscord Theme
 
-WinkCord is a nice and Winky theme for better discord. This includes custom backgrounds, a winking animated discord logo and a custom font!
+WinkCord is a nice and Winky theme for [BetterDiscord](https://betterdiscord.app). This includes custom backgrounds, a winking animated discord logo and a custom font!
 
-[a relative link](screenshot.jpg)
+![Screenshot of WinkCord theme]()
+
+
